@@ -28,7 +28,7 @@ main {
 main > div {
     padding: 1rem;
     box-sizing: border-box;
-    width: 19rem;
+    width: 21rem;
     flex-shrink: 0;
     background-color: #dddddd;
     border-radius: 0.25rem;
@@ -37,7 +37,7 @@ main > div {
 
 h3 {
     margin: 0.25rem 0 0.5rem;
-    font-size: 16px;
+    font-size: 1rem;
 }
 
 .boards {
