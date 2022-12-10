@@ -123,3 +123,20 @@ h3 {
     background-image: url(icons_hw_module_8_9/avatar_4.png);
 }
 
+::-webkit-scrollbar {
+    width: 0.25em;
+}
+
+main::-webkit-scrollbar {
+    height: 0.8rem;
+    background-color:#027979 ;
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: #025959;
+}
+
+main ::-webkit-scrollbar-thumb {
+     background-color: #018484;
+     border-radius: 3px;
+}
